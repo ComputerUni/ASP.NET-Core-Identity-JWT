@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|solutionrelative:views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|c:\\users\\burhan\\desktop\\identity-jwt\\notikaidentityemail\\models\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|solutionrelative:models\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|c:\\users\\burhan\\desktop\\identity-jwt\\notikaidentityemail\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|c:\\users\\burhan\\desktop\\identity-jwt\\notikaidentityemail\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|c:\\users\\burhan\\desktop\\identity-jwt\\notikaidentityemail\\models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|solutionrelative:models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|c:\\users\\burhan\\desktop\\identity-jwt\\notikaidentityemail\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|c:\\users\\burhan\\desktop\\identity-jwt\\notikaidentityemail\\models\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|solutionrelative:models\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|c:\\users\\burhan\\desktop\\identity-jwt\\notikaidentityemail\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5C97C10-FA2A-E694-47E7-92E7BA1CF008}|NotikaIdentityEmail.csproj|c:\\users\\burhan\\desktop\\identity-jwt\\notikaidentityemail\\views\\register\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,86 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 646,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Views\\Login\\UserLogin.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\UserLogin.cshtml",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Views\\Login\\UserLogin.cshtml",
-              "RelativeToolTip": "Views\\Login\\UserLogin.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-11T20:55:33.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserLoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Models\\UserLoginViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\UserLoginViewModel.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Models\\UserLoginViewModel.cs",
-              "RelativeToolTip": "Models\\UserLoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T20:46:28.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T20:44:22.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ErrorPageController.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\ErrorPageController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ErrorPageController.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\ErrorPageController.cs",
-              "RelativeToolTip": "Controllers\\ErrorPageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T20:43:50.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomIdentityValidator.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Models\\CustomIdentityValidator.cs",
-              "RelativeDocumentMoniker": "Models\\CustomIdentityValidator.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Models\\CustomIdentityValidator.cs",
-              "RelativeToolTip": "Models\\CustomIdentityValidator.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T20:14:22.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EmailContext.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Context\\EmailContext.cs",
-              "RelativeDocumentMoniker": "Context\\EmailContext.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Context\\EmailContext.cs",
-              "RelativeToolTip": "Context\\EmailContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T19:45:33.074Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -152,6 +74,81 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Views\\Login\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\UserLogin.cshtml",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Views\\Login\\UserLogin.cshtml",
+              "RelativeToolTip": "Views\\Login\\UserLogin.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwGsAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T20:55:33.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Models\\UserLoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Models\\UserLoginViewModel.cs",
+              "RelativeToolTip": "Models\\UserLoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T20:46:28.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T20:44:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorPageController.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\ErrorPageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorPageController.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\ErrorPageController.cs",
+              "RelativeToolTip": "Controllers\\ErrorPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T20:43:50.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomIdentityValidator.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Models\\CustomIdentityValidator.cs",
+              "RelativeDocumentMoniker": "Models\\CustomIdentityValidator.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Models\\CustomIdentityValidator.cs",
+              "RelativeToolTip": "Models\\CustomIdentityValidator.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T20:14:22.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailContext.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Context\\EmailContext.cs",
+              "RelativeDocumentMoniker": "Context\\EmailContext.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Context\\EmailContext.cs",
+              "RelativeToolTip": "Context\\EmailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T19:45:33.074Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Program.cs",
@@ -160,8 +157,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T19:43:50.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T19:43:50.852Z"
             },
             {
               "$type": "Document",
@@ -173,8 +169,7 @@
               "RelativeToolTip": "wwwroot\\signup-form-19\\index.html",
               "ViewState": "AgIAABcAAAAAAAAAAAAkwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-06-11T18:58:42.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T18:58:42.181Z"
             },
             {
               "$type": "Document",
@@ -191,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RegisterUserViewModel.cs",
               "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Models\\RegisterUserViewModel.cs",
               "RelativeDocumentMoniker": "Models\\RegisterUserViewModel.cs",
@@ -204,13 +199,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
               "ToolTip": "C:\\Users\\BURHAN\\Desktop\\Identity-JWT\\NotikaIdentityEmail\\Controllers\\RegisterController.cs",
               "RelativeToolTip": "Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswC0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T18:08:13.914Z",
               "EditorCaption": ""
