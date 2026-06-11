@@ -7,6 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\signup-form-19\.DS_Store" />
+    <None Include="wwwroot\signup-form-19\css\.DS_Store" />
+    <None Include="wwwroot\signup-form-19\css\bootstrap\.DS_Store" />
+    <None Include="wwwroot\signup-form-19\css\bootstrap\mixins\.DS_Store" />
+    <None Include="wwwroot\signup-form-19\fonts\.DS_Store" />
+    <None Include="wwwroot\signup-form-19\images\.DS_Store" />
+    <None Include="wwwroot\signup-form-19\js\.DS_Store" />
+    <None Include="wwwroot\signup-form-19\scss\.DS_Store" />
+    <None Include="wwwroot\signup-form-19\scss\bootstrap\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.3.1" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.4" />

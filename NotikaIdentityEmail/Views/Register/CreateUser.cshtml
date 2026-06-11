@@ -1,0 +1,88 @@
+﻿@model RegisterUserViewModel
+@{
+    Layout = null;
+}
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Identity Kayıt Formu</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/signup-form-19/css/style.css">
+</head>
+<body class="img" style="background-image: url('/signup-form-19/images/bg.jpg');">
+    <section class="ftco-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6 text-center mb-5">
+                    <h2 class="heading-section">Yeni Kullanıcı Kaydı</h2>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-9 col-lg-7">
+                    <div class="login-wrap">
+                        <h3 class="text-center mb-4">Hesap Oluştur</h3>
+
+                        <form asp-action="CreateUser" asp-controller="Register" method="post" class="signup-form">
+
+                            <div class="row">
+                                <div class="form-group col-md-6 mb-3 p-2">
+                                    <label class="label" for="Name">Ad</label>
+                                    <input style="width: 100% !important; height: 50px;" type="text" class="form-control" asp-for="Name" placeholder="Adınız">
+                                    <span class="icon fa fa-user-o"></span>
+                                </div>
+                                <div class="form-group col-md-6 mb-3 p-2">
+                                    <label class="label" for="Surname">Soyad</label>
+                                    <input style="width: 100% !important; height: 50px;" type="text" class="form-control" asp-for="Surname" placeholder="Soyadınız">
+                                    <span class="icon fa fa-user-o"></span>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="form-group col-md-6 mb-3 p-2">
+                                    <label class="label" for="Username">Kullanıcı Adı</label>
+                                    <input style="width: 100% !important; height: 50px;" type="text" class="form-control" asp-for="Username" placeholder="Kullanıcı Adınız">
+                                    <span class="icon fa fa-user-o"></span>
+                                </div>
+                                <div class="form-group col-md-6 mb-3 p-2">
+                                    <label class="label" for="Email">Email Adresi</label>
+                                    <input style="width: 100% !important; height: 50px;" type="email" class="form-control" asp-for="Email" placeholder="Email Adresiniz">
+                                    <span class="icon fa fa-paper-plane-o"></span>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="form-group col-md-6 mb-3 p-2">
+                                    <label class="label" for="Password">Şifre</label>
+                                    <input style="width: 100% !important; height: 50px;" id="password" type="password" class="form-control" asp-for="Password" placeholder="Şifreniz">
+                                    <span toggle="#password" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+                                    <span class="icon fa fa-lock"></span>
+                                </div>
+                                <div class="form-group col-md-6 mb-3 p-2">
+                                    <label class="label" for="password-confirm">Şifre Tekrar</label>
+                                    <input style="width: 100% !important; height: 50px;" id="password-confirm" type="password" name="ConfirmPassword" asp-for="ConfirmPassword" class="form-control" placeholder="Şifre Tekrar">
+                                    <span toggle="#password-confirm" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+                                    <span class="icon fa fa-lock"></span>
+                                </div>
+                            </div>
+                            <div class="text-danger" asp-validation-summary="All"></div>
+                            <div class="form-group col-md-12 mt-4">
+                                <button style="width: 100% !important; height: 50px;" type="submit" class="form-control btn btn-primary submit px-3">Kayıt Ol</button>
+                            </div>
+                        </form>
+                        <p class="text-center mt-3">I'm already a member! <a href="/Login/UserLogin">Sign In</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="/signup-form-19/js/jquery.min.js"></script>
+    <script src="/signup-form-19/js/popper.js"></script>
+    <script src="/signup-form-19/js/bootstrap.min.js"></script>
+    <script src="/signup-form-19/js/main.js"></script>
+</body>
+</html>
